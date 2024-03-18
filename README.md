@@ -1,6 +1,9 @@
-# shopify-starter-buy-button
+# Shopify Starter Buy Button List
 This will allow you to display all products in your Shopify STARTER plan. Regular Shopify plans offer an option to do this automatically, but the Starter plan does not as categories are disabled.
 
+This script also has fallbacks in case of loading troubles, so users can at least still get to your direct shop if there is poor internet or if they have scripts disabled.
+
+## Steps
 First, you will need to add the Buy Button app to your store: https://apps.shopify.com/buy-button
 
 Next, create a Product Buy Button (select any product, it doesn't matter at this point other than a preview).
