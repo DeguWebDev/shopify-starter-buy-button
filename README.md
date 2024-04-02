@@ -3,6 +3,8 @@ This will allow you to display all products in your Shopify STARTER plan. Regula
 
 This script also has fallbacks in case of loading troubles, so users can at least still get to your direct shop if there is poor internet or if they have scripts disabled.
 
+Example: https://deguarts.com/shop/pins-keychains-more/ 
+
 ## Steps
 First, you will need to add the Buy Button app to your store: https://apps.shopify.com/buy-button
 
