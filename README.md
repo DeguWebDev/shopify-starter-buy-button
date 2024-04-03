@@ -26,3 +26,5 @@ In the shop.php script I've provided, you need to update the following:
 - var options = {XXXXXXX} around line 77. Update XXXXXXX with the options you copied from the buy button script.
 
 And you're set! Include the script on your website (PHP preferred for variables, but can be changed to regular HTML buy coping those variables into their correct locations) and adjust the styles as you wish (I set a basic style.css for you).
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G811062)
